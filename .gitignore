@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+.DS_Store
+.idea/
+.vs/
+.env*
+data/
+output/
+*.user
+*.suo
+*.pdf
+*.docx
+*Підготовка*
+*Шпаргалка*
+*спіч*

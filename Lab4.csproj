@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Lab4.App/**/*.cs" />
+    <ProjectReference Include="Lab4.Delegates/Lab4.Delegates.csproj" />
+    <ProjectReference Include="Lab4.Arithmetic/Lab4.Arithmetic.csproj" />
+  </ItemGroup>
+</Project>
